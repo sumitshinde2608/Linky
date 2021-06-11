@@ -1,0 +1,17 @@
+.Table {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 20px;
+}
+
+.Cards {
+	height: inherit;
+	width: min-content;
+	padding: 25px;
+	display: flex;
+	flex-direction: row;
+}
+
+.po {
+	padding: 50px;
+}

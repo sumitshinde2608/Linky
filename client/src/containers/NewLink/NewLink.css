@@ -1,0 +1,14 @@
+.Form {
+	width: 100%;
+	height: 100vh;
+	background-color: white;
+}
+
+.Main {
+	padding: 10px;
+}
+
+.formfield {
+	display: flex;
+	align-self: flex-start;
+}
